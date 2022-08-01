@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://blogs.airport.tk/sitemap.xml
+Sitemap: http://blogs.airport.tk/baidusitemap.xml
+
+Sitemap: https://alex950808.github.io/sitemap.xml
+Sitemap: https://alex950808.github.io/baidusitemap.xml
