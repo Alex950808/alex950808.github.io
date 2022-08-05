@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blogs.airport.tk/posts/b337ab6a/</loc>
+    
+    <lastmod>2022-08-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blogs.airport.tk/posts/b8294efb/</loc>
     
     <lastmod>2022-08-05</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://blogs.airport.tk/posts/3c136da5/</loc>
-    
-    <lastmod>2022-08-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blogs.airport.tk/posts/b337ab6a/</loc>
     
     <lastmod>2022-08-05</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://blogs.airport.tk/gallery/acgn/index.html</loc>
+    <loc>https://blogs.airport.tk/gallery/marvel/index.html</loc>
     
     <lastmod>2022-08-01</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://blogs.airport.tk/gallery/marvel/index.html</loc>
+    <loc>https://blogs.airport.tk/gallery/acgn/index.html</loc>
     
     <lastmod>2022-08-01</lastmod>
     
@@ -110,6 +110,20 @@
 
   
   <url>
+    <loc>https://blogs.airport.tk/tags/%E5%85%B6%E4%BB%96/</loc>
+    <lastmod>2022-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blogs.airport.tk/tags/Freenom/</loc>
+    <lastmod>2022-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blogs.airport.tk/tags/Cloudflare/</loc>
     <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -125,20 +139,6 @@
   
   <url>
     <loc>https://blogs.airport.tk/tags/Severless/</loc>
-    <lastmod>2022-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blogs.airport.tk/tags/%E5%85%B6%E4%BB%96/</loc>
-    <lastmod>2022-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blogs.airport.tk/tags/Freenom/</loc>
     <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
