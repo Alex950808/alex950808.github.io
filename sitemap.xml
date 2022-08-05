@@ -4,7 +4,7 @@
   <url>
     <loc>https://blogs.airport.tk/posts/b8294efb/</loc>
     
-    <lastmod>2022-08-03</lastmod>
+    <lastmod>2022-08-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,14 +13,23 @@
   <url>
     <loc>https://blogs.airport.tk/posts/3c136da5/</loc>
     
-    <lastmod>2022-08-03</lastmod>
+    <lastmod>2022-08-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blogs.airport.tk/link/index.html</loc>
+    <loc>https://blogs.airport.tk/posts/b337ab6a/</loc>
+    
+    <lastmod>2022-08-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blogs.airport.tk/tags/index.html</loc>
     
     <lastmod>2022-08-01</lastmod>
     
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://blogs.airport.tk/tags/index.html</loc>
+    <loc>https://blogs.airport.tk/link/index.html</loc>
     
     <lastmod>2022-08-01</lastmod>
     
@@ -56,15 +65,6 @@
   </url>
   
   <url>
-    <loc>https://blogs.airport.tk/gallery/marvel/index.html</loc>
-    
-    <lastmod>2022-08-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blogs.airport.tk/gallery/acgn/index.html</loc>
     
     <lastmod>2022-08-01</lastmod>
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://blogs.airport.tk/gallery/wallpaper/index.html</loc>
+    <loc>https://blogs.airport.tk/gallery/marvel/index.html</loc>
     
     <lastmod>2022-08-01</lastmod>
     
@@ -91,10 +91,19 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://blogs.airport.tk/gallery/wallpaper/index.html</loc>
+    
+    <lastmod>2022-08-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://blogs.airport.tk/</loc>
-    <lastmod>2022-08-03</lastmod>
+    <lastmod>2022-08-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,28 +111,35 @@
   
   <url>
     <loc>https://blogs.airport.tk/tags/Cloudflare/</loc>
-    <lastmod>2022-08-03</lastmod>
+    <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blogs.airport.tk/tags/%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1/</loc>
-    <lastmod>2022-08-03</lastmod>
+    <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blogs.airport.tk/tags/Severless/</loc>
-    <lastmod>2022-08-03</lastmod>
+    <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blogs.airport.tk/tags/%E5%85%B6%E4%BB%96/</loc>
-    <lastmod>2022-08-03</lastmod>
+    <lastmod>2022-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blogs.airport.tk/tags/Freenom/</loc>
+    <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -132,7 +148,7 @@
   
   <url>
     <loc>https://blogs.airport.tk/categories/%E5%85%B6%E4%BB%96/</loc>
-    <lastmod>2022-08-03</lastmod>
+    <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
